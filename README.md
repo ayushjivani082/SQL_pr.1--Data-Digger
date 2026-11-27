@@ -5,7 +5,8 @@ video link :
 
 
 
-repositories link :
+repositories link :https://github.com/ayushjivani082/SQL_pr.1--Data-Digger/tree/c6c01bf18a900345da9ddc83a3fa391df11604aa/SQL_1.Data%20Digger
+
 
 
 
