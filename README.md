@@ -1,7 +1,7 @@
 # SQL_pr.1--Data-Digger
 
 
-video link :
+video link :https://drive.google.com/file/d/1hLVTOJkD7_EEqM5OncBK5S31_7pr9_PE/view?usp=drive_link
 
 
 
